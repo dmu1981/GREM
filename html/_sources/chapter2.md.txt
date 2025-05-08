@@ -1,16 +1,16 @@
-## Pädagogische Arbeit
+## 🎓 Pädagogische Arbeit
 
-### Die Erprobungsstufe
+### 🧒 Die Erprobungsstufe
 
-#### **Wie bereitet sich das GREM auf die neuen Schüler\*innen vor?**
+#### 🤝 **Wie bereitet sich das GREM auf die neuen Schüler\*innen vor?**
 
-#### **Die Lehrer der Klasse**
+#### 👨‍🏫 **Die Lehrer der Klasse**
 
 Klassenlehrer\*innen, die in der Erprobungsstufe ein Team bilden, sind
 ausschließlich Lehrkräfte, die sich diese Aufgabe ausdrücklich gewünscht
 haben. Ähnliches gilt auch für die übrigen Fachlehrer\*innen.
 
-#### **Kontakte zu den Grundschulen**
+#### 🏫 **Kontakte zu den Grundschulen**
 
 Seit Jahren stehen die Erprobungsstufenkoordination und Schulleitung des
 GREM im Kontakt und Austausch mit den verschiedenen Grundschulen in
@@ -25,7 +25,7 @@ der die Übergangsmodalitäten konferiert, um den Sprung von der
 vertrauten Grundschule an die neue weiterführende Schule zu
 erleichtern.
 
-#### **Das pädagogische Konzept**
+#### 📚 **Das pädagogische Konzept**
 
 Die Kolleg\*innen nehmen regelmäßig an Fortbildungsveranstaltungen teil,
 in denen neue Unterrichtskonzepte und -methoden entwickelt werden. In
@@ -33,7 +33,7 @@ gemeinsamer Beratung in den Teams der Erprobungsstufe, den Fach- und
 Lehrer\*innenkonferenzen und nicht zuletzt in der Schulkonferenz wird so
 ständig an der Verbesserung des pädagogischen Angebots gearbeitet.
 
-#### **Mitwirkungsmöglichkeiten von Eltern und Schüler\*innen**
+#### 👥 **Mitwirkungsmöglichkeiten von Eltern und Schüler\*innen**
 
 Wie in allen Klassen und Jahrgangsstufen wählen auch die Eltern in der
 Erprobungsstufe ihre Vertreter\*innen für die Schulpflegschaft. Über
@@ -51,7 +51,7 @@ wie z.B. dem Kennenlerntag der neuen Schüler\*innen, Begleitung bei
 Lesungen, Theaterveranstaltungen usw. Wir vertrauen auf eine wirksame
 Zusammenarbeit mit Eltern bzw. Erziehungsberechtigten.
 
-#### **Wir kümmern wir uns um unsere neuen Schüler\*innen!**
+#### 💬 **Wir kümmern wir uns um unsere neuen Schüler\*innen!**
 
 Die Realisierung dieser Aufgaben erfolgt nach den drei Schwerpunkten:
 1. der besonderen Funktion der Klassenlehrer\*innen,
@@ -84,7 +84,7 @@ Die Erprobungsstufe bildet pädagogisch wie organisatorisch eine Einheit,
 die der gezielten Beobachtung, Erprobung und Förderung der
 Schüler\*innen dienen soll.
 
-#### **Sanfter Übergang**
+#### 🧘 **Sanfter Übergang**
 
 Um den Schulwechsel angenehmer zu gestalten, haben sich einige konkrete
 Maßnahmen bewährt:
@@ -117,7 +117,7 @@ Maßnahmen bewährt:
   Jugendherberge durchgeführt.
 
 
-#### **Schüler\*innen mit Förderbedarf**
+#### ♿ **Schüler\*innen mit Förderbedarf**
 
 <span style="color:red;">
 An unserer Schule beschulen wir auch Kinder, die einen besonderen
@@ -131,7 +131,7 @@ Beteiligten ist. </span>
 
 
 
-#### **Teamsitzungen**
+#### 🗓️ **Teamsitzungen**
 
 Nach einer kurzen Eingewöhnungszeit - ca. 4-6 Wochen nach Schulbeginn -
 finden Teamsitzungen statt. Zu den Teamsitzungen werden die
@@ -143,7 +143,7 @@ erfolgen weiterhin regelmäßig.
 Hier erfolgt ein pädagogischer Austausch, der besonders die beginnende
 Gruppenstruktur im Blick hat und die erste Übergangsphase evaluiert.
 
-#### **Erprobungsstufenteam**
+#### 👩‍🏫 **Erprobungsstufenteam**
 In der Erprobungsstufe arbeiten interessierte und engagierte
 Lehrer\*innen zusammen, um nicht nur den Übergang zu erleichtern,
 sondern durch die Organisation von geeigneten Veranstaltungen (Lesungen
@@ -153,7 +153,7 @@ Zusammenarbeit mit der Polizei, um den Schüler\*innen die
 Verkehrssituation im Schulbereich und darüber hinaus bewusster zu
 machen.
 
-#### **Erprobungsstufenkonferenzen**
+#### 📑 **Erprobungsstufenkonferenzen**
 Während der ersten beiden Jahre, der Erprobungsstufe, finden regelmäßig
 Erprobungsstufenkonferenzen statt, in denen alle Lehrer\*innen einer
 Klasse ausführlich und intensiv über jede(n) Schüler\*in beraten. Erste
@@ -163,7 +163,7 @@ das Sozialverhalten zur Sprache. Ggf. setzt sich die Klassenleitung
 direkt nach den Konferenzen mit den Erziehungsberechtigten in
 Verbindung.
 
-#### **Klassenleitungsteams**
+#### 👥 **Klassenleitungsteams**
 In den Klassen 5 und 6, aber auch in den anderen Klassen werden
 Klassenleitungsteams (Klassenleiter\*in und Co-Klassenleiter\*in)
 eingesetzt. Es gibt zwar eine(n) hauptverantwortlichen
@@ -171,14 +171,14 @@ Klassenlehrer\*in, aber jeweils eine Kollegin und ein Kollege teilen
 sich die Arbeit, begleiten die Kinder in ihrer Entwicklung und stehen
 mit Rat und Tat zur Seite.
 
-#### **Fachunabhängiger Förderunterricht**
+#### 🛠️ **Fachunabhängiger Förderunterricht**
 Die hauptverantwortlichen Klassenlehrer\*innen erhalten im Rahmen ihres
 Fachs eine zusätzliche Unterrichtsstunde, um auf die besonderen Belange
 der Kinder eingehen und das soziale Miteinander fördern zu können.
 
 <!--**Lernen des Lernens** (🡪 [Kap. 2.4.](#Lernen))-->
 
-#### **Lernförderung**
+#### 🧠 **Lernförderung**
 Probleme in einzelnen Fächern können entstehen. Die Erfahrung zeigt
 jedoch, dass innerhalb der Jahrgangsstufe 5 vieles auf die
 Umstellungsphase nach Verlassen der Grundschule zurückzuführen ist. Hier
@@ -196,7 +196,7 @@ werden kann und die Lernrückstände sich so nicht weiter aufgetürmt
 haben. Gleichzeitig bieten wir aber auch Forderunterricht für Kinder an,
 die ihre Potentiale noch nicht ausgeschöpft haben.
 
-#### **Leseförderung**
+#### 📖 **Leseförderung**
 Wir haben einen Kooperationsvertrag mit der Zentralbibliothek in Moers
 abgeschlossen, der eine die Schullaufbahn begleitende Unterstützung und
 Ergänzung in der Leseförderung unserer Schüler\*innen ist. Die nebenan
@@ -211,14 +211,14 @@ Jahrgangsstufenausscheidung einen Schulsieger, der das GREM auf
 Kreisebene vertritt. Alle Klassensieger\*innen sollen einen
 Buchgutschein erhalten.
 
-#### **Paten**
+#### 🙌 **Paten**
 Schüler\*innen der Jahrgangsstufe 10 sind nach Absprache und „Bewerbung"
 als Pate\*innen Ansprechpartner\*innen für die Jüngeren in
 Problemfällen. Darüber hinaus helfen sie den Kleinen bei der
 Organisation von Aktivitäten und sind Begleiter\*innen bei Wandertagen,
 manchmal auch Klassenfahrten.
 
-#### **Multimediaräume**
+#### 💻 **Multimediaräume**
 Die Schule verfügt über drei mit modernen Computern ausgestattete Räume
 allesamt mit schnellem Internetanschluss, so dass die Klassen in
 verschiedenen Fächern am PC arbeiten können ([mehr...](chapter5.md#Medienkonzept)).
@@ -232,7 +232,7 @@ Wichtiger Bestandteil der schulischen Arbeit ist unser Selbstlernzentrum
 alle übrigen modernen Medien bereitstellt, um das Lernen zu optimieren.
 IPAD-Klassen
 
-#### **Arbeitsgemeinschaften**
+#### 🎨 **Arbeitsgemeinschaften**
 Eine Vielzahl von Arbeitsgemeinschaften und damit verbundene
 außerunterrichtliche Veranstaltungen und Aktivitäten bieten allen
 Schüler\*innen die Möglichkeit, sich ihren Neigungen entsprechend am
@@ -241,7 +241,7 @@ Ganztags-AGs haben Themen aus allen Lebensbereichen: sportliche,
 musische, sprachliche und naturwissenschaftlich-technische Themen. Die
 jeweils aktuelle Liste der AGs findet sich auf unserer Website.
 
-#### **Wandertage/Klassenfahrten**
+#### 🧳 **Wandertage/Klassenfahrten**
 Wandertage in der Erprobungsstufe bieten eine zusätzliche Möglichkeit
 der Öffnung von Schule, des gemeinsamen Erlebens und sozialen
 Miteinanders. Höhepunkt ist zweifellos die Klassenfahrt, die während des
@@ -254,7 +254,7 @@ geboten, die neue Klasse nicht nur als Moderator\*in, sondern auch als
 Beobachter\*in viel besser einschätzen zu lernen.
 
 
-### Das GREM als Ganztagsgymnasium
+### 🏫 Das GREM als Ganztagsgymnasium
 
 Das GREM ist seit 2009 Ganztagsschule, unsere Aufgaben gehen deshalb
 über die reine Vermittlung von Wissen weit hinaus. Ziel aller Angebote
@@ -274,7 +274,7 @@ ein. Ferner können sich die Schüler\*innen in dieser Zeit Spiele
 ausleihen oder sich sportlich unter Aufsicht eines/einer Sportlehrer\*in
 in der Turnhalle betätigen.
 
-#### **Ganztag hat Vorteile!**
+#### ✅ **Ganztag hat Vorteile!**
 
 Bei uns wird die längere Zeit, die Kinder in der Schule verbringen,
 genutzt für
@@ -291,7 +291,7 @@ genutzt für
 
 - Kompetenz- statt Defizitorientierung.
 
-#### **Schule von 8 bis 15:45 Uhr ist nicht zu viel für ein Kind!**
+#### ⏰ **Schule von 8 bis 15:45 Uhr ist nicht zu viel für ein Kind!**
 
 Mehr Unterricht in traditioneller Form ist für 11- oder 14-jährige
 wirklich nicht förderlich. Der sogenannte G9-Bildungsgang bringt es mit
@@ -309,7 +309,7 @@ Kinder der Jahrgänge 5 und 6 in der Mittagspause auf dem Schulgelände
 verbleiben. Ab der Klasse 7 ist es möglich, einen Antrag zu stellen, der
 das Kind die Einnahme des Mittagessens zuhause ermöglicht.
 
-#### **Mehr Zeit für ein entspannteres Lernen!**
+#### 🧘‍♂️ **Mehr Zeit für ein entspannteres Lernen!**
 
 Lernen ist mehr als „Instruktion" während einer Unterrichtsstunde. Das
 Kind lernt anders, entspannter und seinen Neigungen entsprechend. Dazu
@@ -327,7 +327,7 @@ können besondere Neigungen und Fähigkeiten gefördert werden. Wir wollen,
 dass unsere Schüler\*innen ihre Zeit sinnvoll nutzen und nicht zuhause
 vor dem Computer „abhängen".
 
-#### **Hausaufgaben werden zu Übungsaufgaben in der Schule!**
+#### 📝 **Hausaufgaben werden zu Übungsaufgaben in der Schule!**
 
 Ein Großteil des selbstständigen Lernens, Vorbereitens und Wiederholens
 wird in der Schule geleistet. „Ich habe das nicht mitbekommen", ist ein
@@ -340,7 +340,7 @@ Defizite schon verfestigt haben. Natürlich ist es notwendig, dass auch
 mal Vokabeln gelernt werden oder ein längerer Aufsatz zuhause beendet
 wird. Aber der Regelfall ist es nicht!
 
-#### **Mehr echte Zeit für das Familienleben!**
+#### 🕊️ **Mehr echte Zeit für das Familienleben!**
 
 „Wann fängst Du endlich mit den Hausaufgaben an!" Wer diesen Satz nicht
 einhundertmal im Monat sagen will, der sollte froh sein, dass das
@@ -349,7 +349,7 @@ Eltern müssen nicht jeden Tag mittags kochen, vorher einkaufen, dann mit
 Kind noch Erledigungen machen. Wenn das Ganztagskind nach Hause kommt,
 dann hat die Familie „echte" Zeit etwas Gemeinsames zu unternehmen.
 
-#### **Freizeitaktivitäten weiter möglich!**
+#### 🎯 **Freizeitaktivitäten weiter möglich!**
 
 Wenn Ihr Kind bereits ein Instrument erlernt oder im Sportverein
 trainiert oder Konfirmandenunterricht besucht, dann ermöglicht die
@@ -360,7 +360,7 @@ die am Nachmittag Fahrdienste machen und dazwischen warten, der
 Vergangenheit angehören, weil die Schule der Ort ist, an dem alle
 Aktivitäten zusammenlaufen.
 
-#### **Das GREM erfüllt viele Bedingungen für einen sinnvollen Ganztag!**
+#### 📌 **Das GREM erfüllt viele Bedingungen für einen sinnvollen Ganztag!**
 
 - Wir haben ein vor allem mit Hilfe des Fördervereins und privater
   Sponsor\*innen gestaltetes Selbstlernzentrum mit Computern incl.
@@ -382,7 +382,7 @@ Beispiel-Stundenplan einer Klasse im Ganztag.
 
 
 
-### Lernzeiten
+### 🕓 Lernzeiten
 
 Lernzeiten dienen am GREM als Gefäß des individuellen Arbeitens im
 Rahmen des Ganztages.
@@ -464,9 +464,9 @@ Hausaufgabenstunde, sondern ist echte LERNzeit, durch
 
 
 
-### Lernen des Lernens
+### 🧭 Lernen des Lernens
 
-#### **Das Erlernen von Lern- und Arbeitstechniken in der Erprobungsstufe**
+#### 📚 **Das Erlernen von Lern- und Arbeitstechniken in der Erprobungsstufe**
 
 Fehlende Erfolge in der Schule sind nicht immer eine Folge
 unzureichender Eignung oder fehlenden Willens, sondern oft das Ergebnis
@@ -540,9 +540,9 @@ Jahrgangsstufe 6 ausgeweitet.
 
 
 <a name="exzellenz"></a>
-### Exzellenz am GREM
+### 🏅 Exzellenz am GREM
 
-#### **Ziele**
+#### 🎯 **Ziele**
 
 Unser Exzellenzprogramm will Schüler\*innen, die ein besonderes Talent
 oder besonderes Interesse an Teilgebieten besitzen, die über den
@@ -555,7 +555,7 @@ Stärken zu fördern und auszuprägen.
 Die internationalen Begriffe „Exzellenz" bzw. Enrichment" wollen wir
 ganz eng umrissen verstehen: als Bereicherung.
 
-#### **Musischer Bereich**
+#### 🎶 **Musischer Bereich**
 
 Unsere gewachsene Stärke im Bereich
 Instrumentalmusik/Gesang/Theater/Technik durch unser Musiktheater [SOON](chapter3.md#soon)
@@ -579,7 +579,7 @@ Dazu kommen:
 - Arbeitsgemeinschaften im Bereich des Ganztags wie Maskenbau,
   Literatur-AG, Schreibwerkstatt etc.
 
-#### **Sprachenlernen**
+#### 🗣️ **Sprachenlernen**
 
 Das Ziel ist der konsequente Bezug aller Angebote auf den europäischen
 Referenzrahmen.
@@ -616,7 +616,7 @@ Referenzrahmen.
   einem zehntägigen Aufenthalt in den Niederlanden mit Sprach- &
   Kulturprogramm.
 
-#### **Naturwissenschaften**
+#### 🔬 **Naturwissenschaften**
 
 Über den Unterricht hinaus werden teilweise in internationaler
 Zusammenarbeit Projekte angegangen, in denen wichtige
@@ -635,7 +635,7 @@ teilnehmen.
 Seit dem Schuljahr 2015/16 ist das GREM Mitglied im Kreis der
 [MINT](chapter3.md#mint)-EC-Schulen.
 
-#### **Cleverixe -- Die Begabtenförderung am GREM**
+#### 🧠 **Cleverixe -- Die Begabtenförderung am GREM**
 
 > „Ich habe keine besondere Begabung, sondern bin nur leidenschaftlich
 neugierig." [^1]
@@ -682,14 +682,14 @@ Folgende Ziele sind für die schulische Begabtenförderung leitend [^2] :
 
 
 
-### Beratungs- und Betreuungskonzept
+### 👂 Beratungs- und Betreuungskonzept
 
 Die gesamte Beratung am GREM verfolgt das Ziel Schüler\*innen
 bestmögliche Voraussetzungen für ihren Schulerfolg zu verschaffen. Dazu
 bedarf es der Beratung zur Schullaufbahn, aber auch der Beratung in
 individuell verschiedenen Lebenslagen, Krisen und Entscheidungen.
 
-#### **Laufbahnberatungen**
+#### 🧭 **Laufbahnberatungen**
 
 Die Beratung der Schüler\*innen zu Entscheidungen in ihrer Schullaufbahn
 erfolgt in der Sekundarstufe I im Allgemeinen durch die
@@ -724,7 +724,7 @@ Folgende Beratungsanlässe sind bisher am GREM verankert:
 - EF/Q1/2: Leistungs- und Grundkurswahlen, Laufbahnplanung,
   Abiturprüfung (Oberstufenkoordinator).
 
-#### **Weitere Beratungsanlässe**
+#### 💬 **Weitere Beratungsanlässe**
 
 Für psychologische und soziale Fragen stehen uns vier ausgebildete
 Beratungslehrer\*innen, die auch Drogenberatungslehrer\*innen sind, zur
@@ -745,7 +745,7 @@ Schüler\*innen mit Rat und Tat und individueller Hilfestellung zur Seite
 zu stehen -- das ist nicht Aufgabe eines Beratungskonzeptes, sondern das
 Gebot der „menschlichen Schule".
 
-#### **Elternberatung**
+#### 👪 **Elternberatung**
 
 Der Kontakt mit den Eltern bleibt nicht beschränkt auf die üblichen
 Lehrer\*innensprechzeiten, sondern wird aufgebaut durch Möglichkeit zur
@@ -768,13 +768,13 @@ Schule. Regelmäßig werden mit außerschulischen Partnern, wie z.B. der
 Polizei, Workshops für die Schüler\*innen und Vorträge für Eltern
 durchgeführt.
 
-#### **Berufsberatung**
+#### 👔 **Berufsberatung**
 
 Details zu unserem Berufsberatungskonzept finden Sie [hier](chapter6.md#berufsberatung).
 
 
 
-### Gesundheit und Vorsorge
+### 🏥 Gesundheit und Vorsorge
 
 Die Entwicklungen in der Gesellschaft zeigen, dass dem Bereich „Gesundheitsförderung / Gesunderhaltung" eine steigende Bedeutung zukommt. Bewegungsmangel, falsche Ernährung, Konsum von Alkohol und Nikotin, beruflicher und privater Stress tragen dazu bei, dass sich insgesamt der Gesundheitszustand der Bevölkerung in den letzten Jahren verschlechtert hat.
 
@@ -786,14 +786,14 @@ Gesunde Schule ist ein Ausdruck von Schulqualität!
 
 Ansätze für unser Anliegen lassen sich im §54 des Schulgesetzes wiederfinden, wir wollen mit unserem Konzept aber weit über die Gesetzeslage fördern!
 
-#### **Ziele**
+#### 🎯 **Ziele**
 
 Ein zentrales Ziel besteht darin, die Gesundheitsförderung als festen Bestandteil der Schulentwicklung zu sehen. Dazu ist es notwendig, mit geeigneten Maßnahmen ein gesundheitsförderliches Arbeitsklima für Schüler\*innen, Lehrer\*innen und das übrige Personal zu gewährleisten.
 
 Wir brauchen eine positive Atmosphäre, so dass alle Schulbeteiligten gerne in die Schule kommen!
 
 
-#### **Maßnahmen**
+#### 🩺 **Maßnahmen**
 
 <u>Schüler\*innen</u>
 
@@ -863,7 +863,7 @@ Halbjährlich finden die Unterweisungen der Lehrkräfte durch den Gefahrstoffbea
 
 Außerschulische Partner\*innen unterstützen unsere Tätigkeit durch Angebote im Fortbildungsbereich. So ist zum Beispiel das Dezernat Vorbeugung der Kreispolizeibehörde Wesel zu nennen, ebenso das Gesundheitsamt.
 
-#### **Zukunftsplanung**
+#### 🌱 **Zukunftsplanung**
 
 Zukünftig wird die Salutogenese zunehmend in den Blick der Schulentwicklung rücken. Die Netzwerke der Zukunftsschulen NRW werden diesen Themenkomplex immer stärker beleuchten.
 
@@ -873,9 +873,9 @@ Darüber hinaus werden die begonnenen Projekte und Vorhaben weitergeführt, begl
 
 
 <a name="foerderkonzept"></a>
-### Förderkonzept 
+### 🧩 Förderkonzept 
 
-#### **Förderangebot**
+#### 🎓 **Förderangebot**
 
 In den letzten Jahren wurde das Förderangebot ausgebaut. Förderung
 findet im Fachunterricht statt (individuelle Förderung), geht aber über
@@ -917,7 +917,7 @@ Förder- bzw. Forderunterricht auf Empfehlung der Eltern, die in den
 Teamsitzungen überprüft wird. Im Jahrgang 6 erfolgt die Zuweisung durch
 die Klassenkonferenz, die den Förderbedarf feststellt.
 
-#### **Förderkonzept Sekundarstufe II**
+#### 📘 **Förderkonzept Sekundarstufe II**
 
 Das Förderkonzept der Sekundarstufe II knüpft an die Förderkonzepte der
 Sekundarstufe I an. Ziel ist es zum einen, die Schüler\*innen bei der
@@ -947,7 +947,7 @@ der Jgst. Q1 zu. Hier finden die angesprochenen Methoden einen
 Niederschlag, der sowohl den Schüler\*innen wie auch den Lehrern als
 Rückmeldung über den Stand der Beherrschung dienen.
 
-#### **Förderung neuer Schüler\*innen in der Sekundarstufe II**
+#### 🆕 **Förderung neuer Schüler\*innen in der Sekundarstufe II**
 
 Um Schüler\*innen der 10. Klassen anderer Schulformen an die gymnasiale
 Oberstufe heranzuführen, steht das GREM im Austausch mit der Realschule
@@ -963,9 +963,9 @@ Oberstufe oder durch einen Schulwechsel auftreten, sollen so frühzeitig
 erkannt und gelöst werden.
 
 
-### Inklusion
+### ♿ Inklusion
 
-#### **Inklusion**
+#### ♻️ **Inklusion**
 
 2006 wurde die Behindertenrechtskonvention durch die
 UN-Generalversammlung verabschiedet, die auch Deutschland 2009
@@ -1051,7 +1051,7 @@ Autonomie werden durch das Lernen in Vielfalt zu wesentlichen
 Bestandteilen unseres Schullebens. Auch dadurch haben wir 2014 den Titel
 **„Schule ohne Rassismus -- Schule mit Courage"** erhalten.
 
-### Gender-Mainstreaming
+### ⚧ Gender-Mainstreaming
 
 ![](media/media/image3.jpeg)
 
@@ -1063,7 +1063,7 @@ Wir wollen die geschlechtsspezifischen Unterschiede nicht einebnen,
 sondern uns ihrer bewusst sein, Benachteiligungen vermeiden und sie
 produktiv nutzen.
 
-#### **Bewusste Wahrnehmung**
+#### 👀 **Bewusste Wahrnehmung**
 
 Im Rahmen der Evaluation schulischer Arbeit erheben die Gremien
 regelmäßig Daten zu geschlechtsspezifischen Ergebnissen an unserer
@@ -1096,7 +1096,7 @@ Wir versuchen Klassenteams ausgewogen zu bilden. Das Konzept der
 Co-Klassenleitung ist weitgehend geschlechtskomplementär verwirklicht
 worden.
 
-#### **Geschlechterunterschiede produktiv nutzen**
+#### ⚖️ **Geschlechterunterschiede produktiv nutzen**
 
 Wir wollen
 
@@ -1114,7 +1114,7 @@ Wir wollen
   Lernens nicht nur unterschiedliche Begabungen und Fähigkeiten, sondern
   auch beide Geschlechter gleichermaßen fördern.
 
-#### **Maßnahmen**
+#### 🧾 **Maßnahmen**
 
 - Jedes Jahr wird in Beratungen verstärkt bei Mädchen für
   naturwissenschaftliche Wahl und bei Jungen für musische Ausbildung
@@ -1133,7 +1133,7 @@ Wir wollen
 - <span style="color:red;">Anbahnung einer Mädchen -- bzw. Jungen-AG, integriert in das
   Ganztagskonzept</span>.
 
-#### **Zusammenfassung der Konzeptbausteine**
+#### 🧱 **Zusammenfassung der Konzeptbausteine**
 
 - Geschlechtsspezifisches Verhalten wird stark durch
   Bildungsinstitutionen (= Schule) beeinflusst und dadurch kann der
@@ -1145,7 +1145,7 @@ Wir wollen
 - Autonomie ist ein Selbstverständnis bzw. eine Selbstbestimmtheit, die
   sich nicht über eine männliche Konstruktion definiert.
 
-### Vertretungskonzept
+### 🔄 Vertretungskonzept
 
 Unterrichtausfall kann in der Praxis niemals vollständig vermieden,
 sondern muss soweit möglich auf ein pädagogisch vertretbares Maß
@@ -1171,7 +1171,7 @@ Programm „Geld statt Stellen\" eingesetzt. Ist dies nicht möglich, wird
 der Ausfall durch Unterrichtskürzungen und Umverteilungen bei
 Fachkolleg\*innen versucht aufzufangen.
 
-#### **Vertretungsunterricht in der Sekundarstufe I**
+#### 🧑‍🏫 **Vertretungsunterricht in der Sekundarstufe I**
 
 - Kurzfristig ausfallende Unterrichtsstunden werden in der
   Erprobungsstufe möglichst bis zur 6. Stunde vollständig vertreten, im
@@ -1202,7 +1202,7 @@ Fachkolleg\*innen versucht aufzufangen.
   Fachlehrkraft Aufgaben für die einzelnen Stunden vor, die sie den
   Schüler\*innen rechtzeitig hinterlässt.
 
-#### **Vertretungsunterricht in der Sekundarstufe II**
+#### 🎓 **Vertretungsunterricht in der Sekundarstufe II**
 
 In der Oberstufe werden ausfallende Stunden durch „eigenverantwortliches
 Arbeiten (EVA)" ersetzt. Fachlehrer\*innen versorgen die Kurse mit
@@ -1214,7 +1214,7 @@ setzen wir „Logineo NRW" und „moodle" ein.
 
 Web untis
 
-### Leistungsbewertung
+### 📊 Leistungsbewertung
 
 Das Konzept zur Leistungsbewertung ist ein gemeinsames Konzept der
 Beteiligten am GREM.
@@ -1233,7 +1233,7 @@ Darüber hinaus wird die Möglichkeit der Vergleichbarkeit von
 Leistungsergebnissen erreicht, da eine kriteriengeleitete Bewertung
 nachvollziehbar wird.
 
-#### **Rechtliche Grundlagen**
+#### ⚖️ **Rechtliche Grundlagen**
 
 Alle Entscheidungen zur Bewertung von Schüler\*innenleistungen basieren
 auf rechtlichen Grundlagen! Diese Basis ermöglicht einen sicheren Umgang
@@ -1261,7 +1261,7 @@ geregelt:
 Darüber hinaus gelten die Beschlüsse zur Leistungsbewertung der
 einzelnen Fachkonferenzen des GREM.
 
-#### **Grundsätze**
+#### 📌 **Grundsätze**
 
 Leistungen können nur dann bewertet werden, wenn es eine klare Absprache
 der beteiligten Lehrer\*innen und Schüler\*innen darüber gibt, welche
@@ -1313,7 +1313,7 @@ attestierte Lese-Rechtsschreib-Schwäche (LRS) haben.
 
 WeitereDiagnoseintrumente??
 
-#### **Schriftliche Arbeiten**
+#### 📝 **Schriftliche Arbeiten**
 
 Die Schüler\*innen sollen mit den Aufgabentypen und den Operatoren in
 den Aufgabenstellungen vertraut sein und Gelegenheit zur Übung haben.
@@ -1343,7 +1343,7 @@ Kennzeichnung der Abweichungen vom Ideal ist ebenso möglich.
 
 Täuschungsversuche werden je nach Schwere des Vergehens geahndet.
 
-#### **Klassenarbeiten in der Sekundarstufe I**
+#### 🗂️ **Klassenarbeiten in der Sekundarstufe I**
 
 Die Anzahl der Klassenarbeiten richtet sich nach den Vorgaben durch
 das Ministerium für Schule und Weiterbildung des Landes
@@ -1353,7 +1353,7 @@ Im Fach Englisch wird im Jg.9 eine Klassenarbeit durch eine mündliche
 Prüfung in gleichwertiger Form der Leistungsbewertung ersetzt.
 Vergleichbares gilt für das Fach Französisch ab der Klasse 7.
 
-#### **Kursarbeiten in der Sekundarstufe II**
+#### 📘 **Kursarbeiten in der Sekundarstufe II**
 
 Dauer und Anzahl der Kursarbeiten in der Sekundarstufe II richten sich
 nach den Vorgaben (s.o.) und unterscheiden sich in Anzahl und Dauer
@@ -1373,12 +1373,12 @@ Abiturbereich.
 Bei der Rückgabe der Klausuren werden den Schüler\*innen die der
 Bewertung zugrundeliegenden Kriterien verdeutlicht (s.o.).
 
-#### **Facharbeit**
+#### 🧾 **Facharbeit**
 
 Für die Erstellung und Bewertung der Facharbeiten gelten die
 Beschlüsse der Lehrer\*innenkonferenz.
 
-#### **Besondere Lernleistung**
+#### 🏆 **Besondere Lernleistung**
 
 Im Rahmen der Abiturprüfung kann Schüler\*innen eine besondere
 Lernleistung angerechnet werden, die im Rahmen oder Umfang eines
@@ -1388,14 +1388,14 @@ Die Genehmigung zur Erstellung einer besonderen Lernleistung erfolgt
 durch die Schulleitung nach Anhörung der unterrichtenden Fachlehrkraft
 und in Beratung mit der Oberstufenkoordination.
 
-#### **Sonstige Mitarbeitsleistungen**
+#### 💬 **Sonstige Mitarbeitsleistungen**
 
 Zu den bewertbaren Bestandteilen der sonstigen Mitarbeit gehören
 mündliche Unterrichtsbeiträge, schriftliche Beiträge außerhalb von
 Klausuren und Klassenarbeiten, Beiträge Schüler\*innenaktiven Handelns
 und praktische Arbeiten.
 
-### **Mündliche Mitarbeitsleistungen**
+#### 🗣️ **Mündliche Mitarbeitsleistungen**
 
 Zu den mündlichen Mitarbeitsleistungen zählen die mündlichen
 Unterrichtsbeiträge, Referate, das Anfertigen von Projektarbeiten etc.
@@ -1405,7 +1405,7 @@ Unterrichtsexperimente im Rahmen der mündlichen Mitarbeitsleistung
 bewertet. Neben den prozessorientierten Leistungen spielen auch die
 erarbeiteten Produkte bei der Leistungsbewertung eine zentrale Rolle.
 
-#### **Schriftliche Übungen**
+#### ✍️ **Schriftliche Übungen**
 
 Schriftliche Übungen berücksichtigen im Regelfall einen
 Unterrichtszeitraum von ca. 4 Unterrichtswochen. Sie dauern in der
@@ -1417,7 +1417,7 @@ Sie sind anteilig im Rahmen der Notengebung im Bereich „sonstige
 Mitarbeit" zu berücksichtigen und die Bewertungsnote entspricht einer
 Teilnote.
 
-#### **Hausaufgaben**
+#### 🏡 **Hausaufgaben**
 
 Im Rahmen des Ganztages werden in der Sekundarstufe I in der Regel
 keine Hausaufgaben gestellt. An die Stelle der Hausaufgaben treten
@@ -1427,7 +1427,7 @@ Würdigung ist aber durchaus möglich. Über Dauer und Umfang der
 Aufgaben gibt es Vorgaben im Erlass. Hier sind die Werte für
 Ganztagsschulen maßgeblich.
 
-#### **Rückmeldungen zum Lernstand**
+#### 📣 **Rückmeldungen zum Lernstand**
 
 In der Sekundarstufe II wird den Schüler\*innen am Ende eines jeden
 Quartals die Note der sonstigen Mitarbeitsleistungen mitgeteilt. Auch
@@ -1439,7 +1439,7 @@ an den dann stattfindenden Lernberatungstagen. Im Schuljahr 15/16
 werden die Lernentwicklungsgespräche erstmalig auch optional für die
 Jahrgangsstufe 7 angeboten.
 
-#### **Beschlüsse zur Leitungsbewertung**
+#### 🧷 **Beschlüsse zur Leitungsbewertung**
 
 Nähere Informationen, die das Konzept erweitern und konkretisieren,
 finden Sie in den **Beschlüssen der einzelnen Fächer zur

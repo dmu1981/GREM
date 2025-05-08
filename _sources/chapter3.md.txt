@@ -1,7 +1,7 @@
 <a name="bilingual"></a>
-## Besondere Unterrichtsangebote
+## 📘 Besondere Unterrichtsangebote
 
-### Bilingualer Unterricht
+### 🌍 Bilingualer Unterricht
 
 > "Schulen mit europaorientiertem Profil wollen auf die Anforderungen
 > einer zukünftigen Wissensgesellschaft in einem zusammenwachsenden Europa
@@ -14,7 +14,7 @@ und eine methodische Kompetenz. Wir wollen unseren Schüler\*innen
 ermöglichen, ihr Wissen und Können nachhaltig und dauerhaft gesichert zu
 erwerben.
 
-#### **Die Bedeutung des bilingualen Lernens**
+#### 🧠 **Die Bedeutung des bilingualen Lernens**
 
 Bilinguales Lernen heißt nicht nur, dass der Unterricht zweisprachig in
 Englisch und Deutsch stattfindet, sondern auch, dass übergreifende
@@ -37,7 +37,7 @@ bilinguales Lernen vermittelt Kenntnisse, Fähigkeiten und Fertigkeiten,
 die für das spätere Berufsleben in einem sprachlich und kulturell
 vielfältigen Europa wichtig sind.
 
-#### **Bilinguales Lernen am GREM**
+#### 📘 **Bilinguales Lernen am GREM**
 
 An unserer Schule wurde der bilinguale Bildungsgang bereits im Jahre
 1991 eingerichtet. Somit haben wir im Laufe der Jahre viel Erfahrung in
@@ -49,7 +49,7 @@ Wir sind mit Lehrkräften für bilingualen Unterricht gut versorgt. Diese
 haben im Referendariat einen Schwerpunkt ihrer Ausbildung im Bereich des
 bilingualen Unterrichts gelegt.
 
-#### **Integration von sachfachlichem und sprachlichem Lernen**
+#### 🔄 **Integration von sachfachlichem und sprachlichem Lernen**
 ![](media/graph1.png)
 
 Die bilingualen Sachfächer am GREM sind die Erdkunde, Geschichte und
@@ -81,7 +81,7 @@ Schüler\*innenaustausch durch, der in englischer Sprache durch die
 Erarbeitung von Unterrichtsmaterialien vor- und nachbereitet wird und
 die Erstellung von englischsprachigen Schüler\*innenarbeiten beinhaltet.
 
-#### **Wie ist der bilinguale Bildungsgang organisiert?**
+#### 🗂️ **Wie ist der bilinguale Bildungsgang organisiert?**
 
 Seit einigen Jahren lernen alle Schüler\*innen bereits in der
 Grundschule Englisch. Dies stellt eine neue Herausforderung für die
@@ -136,9 +136,9 @@ aus.
 | Abitur   | LK schriftlich            | GE / BI GK schriftlich oder mdl.   |
 
 
-### Sprachenkonzept
+### 🗣️ Sprachenkonzept
 
-#### **Sprachenfolge**
+#### 🗂️ **Sprachenfolge**
 
 Das GREM ist ein bilinguales Gymnasium, an dem neben Englisch als erster
 Fremdsprache auch Französisch und Latein (ab Jg.7), Niederländisch (ab
@@ -147,7 +147,7 @@ Jg.8), Italienisch (ab Jg. EF)
 Georg-Forster-Gymnasium Kamp-Lintfort Russisch (ebenfalls ab Jg. EF)
 unterrichtet wird.</span>
 
-#### **Methodische Grundlagen unseres Fremdsprachenunterrichts**
+#### 🧪 **Methodische Grundlagen unseres Fremdsprachenunterrichts**
 
 Als Europaschule fühlen wir uns in besonderem Maße dem europäischen
 Kerngedanken verpflichtet, in der Vielfältigkeit auch die
@@ -239,7 +239,7 @@ selbständig in Gruppen bearbeiten[^11]. Oftmals erfolgt in diesen Kursen
 fächerübergreifendes Lernen, sowohl auf inhaltlicher als auch
 methodischer Ebene.
 
-#### **Bilingualität**
+#### 🔤 **Bilingualität**
 
 An unserer Schule nehmen alle Schüler\*innen am bilingualen Bildungsgang
 teil - entweder in bilingualen Klassen oder durch bilinguale Module.
@@ -256,7 +256,7 @@ der Schulkultur werden die „Jugendlichen auf eine Zukunft im
 sprachlichen und kulturell vielfältigen Europa \[...\]
 vorbereitet."[^13] ([nähere Informationen](chapter3.md#bilingual))
 
-#### **Zertifikate / Zeugnisse**
+#### 🏅 **Zertifikate / Zeugnisse**
 
 Das GREM darf als eine von wenigen Schulen in Deutschland das
 Exzellenz-Label *[CertiLingua](chapter4.md#CertiLingua)* ausstellen. 
@@ -277,7 +277,7 @@ verschiedenen Niveaustufen (B1, C1, C2) ablegen und somit
 Sprachzertifikate wie z.B. das DELF (F), Ele.it (It) und CNaVT (NL),
 erhalten.
 
-#### **Rolle des Faches Latein**
+#### 🏛️ **Rolle des Faches Latein**
 
 Zukunft braucht Vergangenheit. Latein baut Brücken zwischen
 Vergangenheit und Gegenwart mit der lebendigen Vermittlung von
@@ -298,7 +298,7 @@ Philosophie einen wichtigen Zugang für spätere Geisteswissenschaftler.
 Weiterhin verlangen in vielen Bundesländern die Hochschulen das Latinum
 als Zugangsberechtigung für verschiedene Fachrichtungen.
 
-#### **Sprachenfolge und Stundenzahl am GREM (gilt für G8).**
+#### 📊 **Sprachenfolge und Stundenzahl am GREM (gilt für G8).**
 
 | Jgst.  | Sprache                                     | Wochenstd.                              |
 |--------|---------------------------------------------|------------------------------------------|
@@ -308,7 +308,7 @@ als Zugangsberechtigung für verschiedene Fachrichtungen.
 | 11–13  | je nach Wahl: E oder F oder L oder NL oder I oder Rus | Je 3 (neu einsetzend 4)<br>Leistungskurs: 5 |
 
 <a name="mint"></a>
-### MINT-Schwerpunkt
+### 🧪 MINT-Schwerpunkt
 
 Unter dem Begriff MINT-Fächer werden die Fächer aus dem Bereich
 Mathematik, Informatik, Naturwissenschaft und Technik verstanden. Für
@@ -385,7 +385,7 @@ ein Zertifikat über besondere Leistungen im MINT-Bereich aus, die im
 Verlaufe der Schulzeit erbracht worden sind.
 
 <a name="fahrten"></a>
-### Austausch, Fahrten und Projekttage: „Auf dem Weg nach Europa"
+### 🧳 Austausch, Fahrten und Projekttage: „Auf dem Weg nach Europa"
 
 
 > "Schulen mit europaorientiertem Profil wollen auf die Anforderungen
@@ -427,6 +427,7 @@ Förderverein, Freiplätze etc.) so viele Fahrten wie möglich
 durchzuführen, müssen aber von Jahr zu Jahr entscheiden, was vorrangig
 und möglich ist.
 
+#### 🗺️ Fahrtenprogramm – Übersicht
 Für die verschiedenen Jahrgangsstufen sind folgende Fahrten und
 Austausche durch die Schulkonferenz verankert:
 
@@ -524,7 +525,7 @@ Seit 2010 wird regelmäßig zusätzlich ein Italienaustausch mit unserer
 Partnerschule Instituto Tecnico Statale Girardi bei **Venedig** für die
 Italienisch-Kurse der **Q1** durchgeführt.
 
-**Liste unserer Schulpartnerschaften**
+#### ** 🤝 Liste unserer Schulpartnerschaften**
 | Name                                  | Adresse                                              | Land | E-Mail / Website                                             | seit  | Inhalte               |
 |---------------------------------------|------------------------------------------------------|------|--------------------------------------------------------------|-------|------------------------|
 | College den Hulster                   | Hagerhofweg 15, 5912 PN Venlo                        | NL   | info@denhulster.nl, www.collegedenhulster.nl                 | 1991  | Austausch, Projekte    |
@@ -541,7 +542,7 @@ Italienisch-Kurse der **Q1** durchgeführt.
 
 
 
-#### **Wandertage**
+#### 🧑‍🤝‍🧑 **Wandertage**
 
 Natürlich hat jede Klasse die Möglichkeit, individuelle Ziele für die
 Wandertage zu wählen, jedoch halten wir es für besonders wichtig,
@@ -558,7 +559,7 @@ letzten Schultage sinnvoll und sorgen durch diese zentrale Abstimmung
 für ein möglichst niedriges Maß an Unterrichtsausfall im Verlauf des
 Schuljahres.
 
-#### **Projekttage**
+#### 🧳 **Projekttage**
 
 Die regelmäßige Durchführung von Projekttagen wurde von der
 Schulkonferenz beschlossen. Gewisse Eckpunkte haben sich bewährt, wie
@@ -571,7 +572,7 @@ möglich. Es ist uns wichtig, dass Projektorientierung nicht beschränkt
 ist auf schulische Projekttage, sondern immer stärker Eingang findet in
 den Unterricht und in die Angebote im Ganztag.
 
-#### **Auslandspraktika**
+#### 🌍 **Auslandspraktika**
 
 Im Rahmen des Betriebspraktikums in der 10 haben die Schüler\*innen die
 Gelegenheit, das Praktikum im Ausland abzulegen. Eine Praktikumsstelle
@@ -584,15 +585,15 @@ bereitgehalten.
 Hierzu haben wir ein Informationsblatt erarbeitet, das auf unserer
 Website zu finden ist.
 
-#### **Fahrtenprogramm -- Übersicht**
+#### 🧭 **Fahrtenprogramm -- Übersicht**
 
 **(beschlossen für 2017 bis 2020, Änderungen für 21/22 s. Seite 31f.)**
 
 
 <a name="soon"></a>
-### Musiktheater SOON und \"Musik plus\"
+### 🎭 Musiktheater SOON und \"Musik plus\"
 
-#### **SOON**
+#### 🎤 **SOON**
 
 Das Projekt SOON besteht seit 1992 und ist in seiner Art das größte
 Musik-Theater in Deutschland. Rechnet man „Young SOON" dazu, ergibt sich
@@ -631,21 +632,21 @@ Für die Schule hat SOON vielfältige Bedeutung:
   einzelner - aber auch der gesamten Gruppe -- reichen weit über das
   hinaus, was Schüler\*innentheater normalerweise bieten.
 
-#### **YoungSOON**
+#### 🎶 **YoungSOON**
 
 Um auch jüngeren Kindern die Möglichkeit zu geben, bei SOON
 mitzuarbeiten und sich auf die Oberstufenarbeit vorzubereiten, wurde
 2007 YoungSOON gegründet. Ab der Stufe 5 spielen die Schüler\*innen in
 verschiedenen AGs Theater, singen im Chor oder spielen in der Band mit.
 
-#### **Musik plus / Klassik-AG**
+#### 🎻 **Musik plus / Klassik-AG**
 
 In Zusammenarbeit mit der Musikschule Moers ist die Ganztags-AG Musik
 plus eingerichtet worden. Die Schüler\*innen erhalten gegen ein geringes
 Entgelt qualifizierten Instrumentalunterricht, auch als Vorbereitung für
 die Teilnahme am SOON-Projekt.
 
-#### **Auftritte**
+#### 🎙️ **Auftritte**
 
 SOON, YoungSOON und die Klassik-AG präsentieren sich regelmäßig im
 Kulturzentrum Rheinkamp. Diese Vorstellungen sind Höhepunkte der
@@ -655,7 +656,7 @@ technischen Gebiet. SOON tritt bei besonderen Anlässen (Schulfeste,
 Volkstrauertag, Verabschiedungen, etc.) auch außerhalb der Schule auf
 und vertritt die Schule in besonderem Maße.
 
-### Angebote im Wahlpflichtbereich
+### 🧭 Angebote im Wahlpflichtbereich
 
 Im Wahlpflichtbereich der Stufen 9 und 10 bieten wir die Wahl zwischen
 diesen 3-stündigen Fächern:
@@ -682,7 +683,7 @@ Facharbeit ersetzt werden. Das Fach wird allerdings nicht als Hauptfach
 Versetzungsentscheidung nicht als Ausgleichsfach für ein Hauptfach
 dienen.
 
-### Angebote in der Oberstufe
+### 🎓 Angebote in der Oberstufe
 
 Kooperation
 
@@ -715,9 +716,9 @@ Besondere Angebote
   Leistungskurs und Geschichte ([bilingual](chapter3.md#bilingual)) oder Biologie ([bilingual](chapter3.md#bilingual)) als
   Abiturfach.
 
-### Euregioschule
+### 🇪🇺 Euregioschule
 
-#### **Euregio Profilschule**
+#### 🗺️ **Euregio Profilschule**
 
 Das Gymnasium Rheinkamp Europaschule Moers ist aufgrund seiner Lage in
 der Euregio Rhein Waal und seines inhaltlichen Programms als Schule in
