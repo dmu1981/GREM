@@ -36,6 +36,11 @@ source_suffix = {
 
 language = 'de'
 
+html_theme_options = {
+    "navigation_depth": 3,
+    'collapse_navigation': False
+}
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 

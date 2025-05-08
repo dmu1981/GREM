@@ -3,7 +3,7 @@
 # Gymnasium Rheinkamp **Europaschule Moers**
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 :caption: Inhalt
 
 grem.md
