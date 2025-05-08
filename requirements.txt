@@ -1,3 +1,6 @@
 sphinx
+sphinx-rtd-theme
+sphinxcontrib-mermaid
+sphinx-togglebutton
 myst-parser
 furo             # oder ein anderes Theme
