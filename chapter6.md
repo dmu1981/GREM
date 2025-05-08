@@ -1,6 +1,6 @@
-## Das GREM blickt nach draußen
+## 🌐 Das GREM blickt nach draußen
 
-### Öffentlichkeitsarbeit
+### 📣 Öffentlichkeitsarbeit
 
 Das **Außenbild** der Schule ist für uns sehr wichtig. Einige Eckpfeiler
 der Öffentlichkeitsarbeit:
@@ -37,7 +37,7 @@ der Öffentlichkeitsarbeit:
 - Die Schule ist fest im Stadtteil verankert und zeigt dies z.B. bei
   Auftritten unseres Musiktheaters SOON außer Haus.
 
-#### **Portfolio (EuroFolio)**
+#### 📁 **Portfolio (EuroFolio)**
 > „Bildung und Ausbildung sind
 elementar, um die Chancen des geeinten Europas sinnvoll nutzen zu
 können. Dabei wird es immer wichtiger, Wissen und Information
@@ -61,7 +61,7 @@ Schüler\*innen vergeben. Damit bildet unser EuroFolio eine ideale Basis
 für Bewerbungen in Deutschland und Europa. Zugleich öffnen wir unseren
 Schüler\*innen Türen zum Lernen und Arbeiten in Europa.
 
-#### **Ehrungen und Zertifikate**
+#### 🏅 **Ehrungen und Zertifikate**
 
 Besondere Leistungen sollen gebührend geehrt werden. Dazu sind
 Zertifikate entwickelt worden, die den Schüler\*innen in einer
@@ -98,9 +98,9 @@ Eine Auswahl unserer Zertifikate:
 - Auszeichnung für besonderes persönliches Engagement
 
 <a name="berufsberatung"></a>
-### Berufsorientierung und --vorbereitung
+### 🎓 Berufsorientierung und --vorbereitung
 
-#### **Einleitung**
+#### 🧭 **Einleitung**
 
 „Nie ist das menschliche Gemüt heiter gestimmt, als wenn es eine
 richtige Arbeit gefunden hat!" (Alexander v. Humboldt).
@@ -172,21 +172,21 @@ in NRW" werden in vollem Umfang ab 2018/19 eintreten."
 Das GREM ist ab dem Schuljahr 2016/17 in das Übergangssystem
 eingetreten.
 
-#### **Evaluation der Instrumente zur Berufswahlorientierung am GREM**
+#### 📜 **Evaluation der Instrumente zur Berufswahlorientierung am GREM**
 
 Evaluationen der Maßnahmen z. B. durch Fragebögen sind geplant und
 sollen zeitnah nach Durchführung durch die beteiligten Personen
 erfolgen. Die Auswertung dieser Fragebögen wird zur regelmäßigen
 Weiterentwicklung der Studien- und Berufswahlvorbereitung führen!
 
-#### **Konkrete Maßnahmen zur Studien- und Berufswahlorientierung am GREM**
+#### 🛠️ **Konkrete Maßnahmen zur Studien- und Berufswahlorientierung am GREM**
 
 Die Berufsorientierung und Berufsvorbereitung wird von einer Lehrerin
 als verantwortlichen Ansprechpartnerin koordiniert.
 
 <u>**Regelmäßige Instrumente**</u>
 
-#### **Berufsorientierung in den Jahrgangsstufen 5 und 6**
+#### 👶 **Berufsorientierung in den Jahrgangsstufen 5 und 6**
 
 Eine erste, allgemeine und mittelbare Berufs- und Studienorientierung
 beginnt am GREM bereits in der Erprobungsstufe, v.a. durch die Förderung
@@ -201,7 +201,7 @@ Schlüsselkompetenzen in der weiteren Schullaufbahn der Schüler\*innen
 ausgebaut und vertieft werden, bis sie schließlich auch eine zentrale
 Rolle in Bewerbungsverfahren für die Berufsfindung haben.
 
-#### **Girls and Boys Day in den Jahrgangsstufen 8 und 9**
+#### 🔄 **Girls and Boys Day in den Jahrgangsstufen 8 und 9**
 
 Der Aspekt der rollen- und geschlechtergeprägten Berufswahl nimmt der
 Wirtschaft potentielle Fachkräfte und Jungen und Mädchen gleichermaßen
@@ -219,7 +219,7 @@ Teilnahme liegt in der Jahrgangsstufe 9, teilweise schon ab 8.
 Der Tag wird im Rahmen der Unterrichtsreihe „Berufswelt kennenlernen" im
 Politikunterricht vor- und nachbereitet.
 
-#### **Potentialanalyse**
+#### 🧠 **Potentialanalyse**
 
 Im Rahmen der Berufswahlvorbereitung wird mit allen Schüler\*innen der
 Jahrgangsstufe 8 ein Kompetenzcheck durchgeführt werden. Hierzu wird im
@@ -235,7 +235,7 @@ gesammelt werden. Dieses Sammeln von Erfahrungen soll im Rahmen von drei
 eintägigen Praktika stattfinden, deren Organisation bisher noch nicht
 abschließend konzipiert worden ist.
 
-#### **Besuch des Berufsinformationszentrums (BIZ)**
+#### 🏢**Besuch des Berufsinformationszentrums (BIZ)**
 
 Im Vorfeld des Betriebspraktikums besuchen die Schüler\*innen das
 BIZ/BIZ-mobil. Auf ihrem Weg zur für sie „richtigen Arbeit" haben die
@@ -245,7 +245,7 @@ zur Berufswahlfindung zu suchen. Im Zentrum steht dabei aber, die
 Schüler\*innen auch für die eigenständige Informationsbeschaffung zu
 Hause handlungsfähig zu machen.
 
-#### **Betriebspraktikum in der Jahrgangsstufe 10 (EF)**
+#### 🧳 **Betriebspraktikum in der Jahrgangsstufe 10 (EF)**
 
 Das Betriebspraktikum am GREM dauert zwei Wochen und findet in der Regel
 im Zeitraum um Pfingsten statt. Es wird im Deutschunterricht vor- und
@@ -269,7 +269,7 @@ durch ein kurzes Vorgespräch, einen persönlichen Besuch im Betrieb und
 die Bewertung der Praktikumsmappe. Bei Problemen im Praktikumsbetrieb
 ist er/sie die erste Kontaktperson.
 
-#### **Bewerbungstraining**
+#### 📄 **Bewerbungstraining**
 
 Als Vorbereitung auf dieses Praktikum dient ein Bewerbungstraining in
 der Jahrgangsstufe 9. Dieses findet im Rahmen des Deutschunterrichts
@@ -279,7 +279,7 @@ online-) Bewerbungen samt Anschreiben und Lebenslauf sowie die
 inhaltlich-thematische Auseinandersetzung mit dem Thema „Berufswelt".
 
 <a name="berufetag"></a>
-**Berufetag**
+#### 🗂️ **Berufetag**
 
 Der Berufetag am GREM findet jährlich im Februar an einem Samstag statt.
 Er ist verpflichtend für die Schüler\*innen der Q1, Schüler\*innen
@@ -297,7 +297,7 @@ Berufsfeldern kundig zu machen. Neben dem Kurzreferat der jeweiligen
 Referent\*innen steht das Gespräch im Vordergrund. Abschließend erfolgt
 eine Kurzevaluation aller Beteiligten.
 
-#### **Studien- und Berufsberatung am GREM**
+#### 👥 **Studien- und Berufsberatung am GREM**
 
 Beratungstermine können jederzeit entweder persönlich oder schriftlich
 mit der Berufsberatung vereinbart werden. Beratungstermine sollten nach
@@ -316,7 +316,7 @@ GREM kommt und Beratungen durchführt.
 
 <u>**Unregelmäßige Instrumente**</u>
 
-#### **Auslandspraktika**
+#### 🌍 **Auslandspraktika**
 
 Im Rahmen des Europaschulgedankens unterstützt das GREM die Wahrnehmung
 von Auslandspraktika in der Sekundarstufe II. Für einzelne
@@ -324,21 +324,21 @@ Schüler\*innen besteht die Möglichkeit, im europäischen Ausland - z.T.
 vermittelt durch unsere europäischen Partnerschulen - praktische
 Berufswelterfahrungen zu sammeln.
 
-#### **Freiwillige Praktika**
+#### 🕰️ **Freiwillige Praktika**
 
 Die Schüler\*innen des GREM werden ermutigt, in den Ferien freiwillige
 Praktika zu absolvieren.
 
 <!--**[Kooperationen]{.underline}**-->
 
-#### **Kooperation mit der Bundesagentur für Arbeit**
+#### 🤝 **Kooperation mit der Bundesagentur für Arbeit**
 
 Das GREM pflegt eine intensive Kooperation mit der BA (s.o.). Die
 Kooperation mit der BA basiert auf der Rahmenvereinbarung zur
 Zusammenarbeit von Schule und Berufsberatung zwischen dem MSW und der BA
 vom 17.9.2007.
 
-#### **Kooperation mit externen Partnern und Wirtschaft**
+#### 🧑‍🏭 **Kooperation mit externen Partnern und Wirtschaft**
 
 Das GREM kooperiert mit verschiedenen Partnern: Hier sind v.a. zu nennen
 die IHK Duisburg Niederrhein und die Wirtschaftskooperation „Wir 4".
@@ -346,7 +346,7 @@ Aber auch einzelne Betriebe stehen als Ansprechpartner zur Verfügung, um
 Schüler\*innen den Kontakt zur Wirtschaft und damit zur „richtigen
 Arbeit" zu ermöglichen bzw. zu erleichtern.
 
-#### **Das Fach „Forschen und Entwickeln"**
+#### 🔬 **Das Fach „Forschen und Entwickeln"**
 <span style="color:red">
 Im Differenzierungsbereich der Jg. 8 und 9 bearbeiten Schüler\*innen in
 diesem Fach Arbeits- und Forschungsaufträge von Firmen [(🡪 Kap
@@ -364,7 +364,7 @@ Eine Übersicht über die Bausteine der Berufsorientierung am GREM:**
 | 10 | Zweiwöchiges Berufspraktikum:<br>-	Schriftlich anzufertigen: Erwartungen VOR dem Praktikum<br>-	Durchführung des Praktikums<br>-	Reflexion Praktikumsbericht)<br>-	Sammlung der Praktikumsberichte zur Einsichtnahme durch nachfolgende Jahrgänge<br>-	Zertifizierung<br>Ende 1.Halbjahr: Angebot der eilnahme am geva-Berufstest <br>Anfang 2.Halbjahr: AOK – Bewerbungstrainingsmodule: <br>a) Bewerbungstraining Basis, b) Assessment Center, c) UNILIFE Seminar<br>jeweils mit Zertifizierung<br>je nach Angebot: 2. Halbjahr: Seminar "Fit for Life" der SparDa-Bank in der Schule<br>Empfohlen: Teilnahme am Berufetag mit Eltern und Firmenvertretern<br>
 | 11 | -	Teilnahme an der Abi – Messe Köln<br>-	Freistellung für individuelle Universitätsbesuche <br>-	Seminar „Vorstellungsgespräche" mit Zertifizierung<br>-	Jahrgangsstufen übergreifender „Zukunfts-Tag“ <br>-	Verpflichtende Teilnahme am Berufetag mit Eltern und Firmenvertretern
 
-### Partnerschaften mit Institutionen und Firmen
+### 🤝 Partnerschaften mit Institutionen und Firmen
 
 Das GREM arbeitet und wirkt über den internen Schulbetrieb hinaus. Die
 Kooperation mit außerschulischen Partnern bereichert und ergänzt
@@ -388,7 +388,7 @@ Kooperationsvereinbarung mit der Universität Duisburg/Essen im Rahmen
 des Zentrums „[Zukunft durch Innovation (zdi)](chapter4.md#zdi) Duisburg-Niederrhein
 DU.MINT" geschlossen.
 
-### Sicherheit und Prävention
+### 🛡️ Sicherheit und Prävention
 
 Am GREM sind die Bereiche der regelmäßig wiederkehrenden
 Sicherheitsüberprüfungen (Feueralarm, Unfälle, Sicherheitsbegehungen),
@@ -422,20 +422,20 @@ Kontakte werden regelmäßig gepflegt zu folgenden Stellen:
 Wir verstehen Sicherheit und Prävention vor allem als pädagogische
 Aufgaben. Hierzu gehören folgende Schwerpunkte:
 
-#### **Verkehrserziehung**
+#### 🚲 **Verkehrserziehung**
 
 Für die Klassen 5 und 6 organisieren wir ein Fahrradtraining, die Jgst.
 Q1/Q2 nehmen teil am Projekt „Junge Fahrer crash-Kurs\", beides in
 Zusammenarbeit mit der Polizei.
 
-#### **Rechtskunde**
+#### ⚖️ **Rechtskunde**
 
 Seit Jahren etabliert ist bei uns die Rechtskunde-AG, die am Nachmittag
 für Schüler\*innen der Jahrgangsstufe 9 angeboten und von fast der
 Hälfte der Stufe angenommen wird. Sie schließt einen Besuch bei einer
 Gerichtsverhandlung ein und wird von einem Oberstaatsanwalt geleitet.
 
-#### **Jugendkriminalität**
+#### 🚔**Jugendkriminalität**
 
 In der Jgst. 8 spricht die Polizei mit den Jugendlichen über Themen wie
 Gewalt, Jugendschutz, Drogen, soziale Netzwerke (web 2.0) etc. In den
@@ -443,7 +443,7 @@ Projekttagen ([🡪 Kap 3.4](#Fahrten)) werden diese Themen ausführlich
 behandelt. Für die Eltern und andere Interessierte werden regelmäßig
 Vorträge angeboten.
 
-#### **Handygefahren und --missbrauch**
+#### 📵 **Handygefahren und --missbrauch**
 
 Mit den verfügbaren Möglichkeiten des Telefonierens mit Mobiltelefonen
 sind neue Missbrauchstatbestände entstanden, wie z.B. Lehrer\*innen im
@@ -457,7 +457,7 @@ durchgeführt, die sowohl die finanziellen Folgen (Abonnements etc.)
 thematisiert, vor allem aber auf die unter Jugendlichen verbreiteten
 Missbrauchsmöglichkeiten und deren strafrechtliche Folgen eingeht.
 
-#### **Internetgefahren**
+#### 🌐 **Internetgefahren**
 
 Jugendliche stellen sich häufig bedenkenlos in sozialen Netzwerken im
 Internet zur Schau, ohne zu bedenken, dass ihre elektronische Spur

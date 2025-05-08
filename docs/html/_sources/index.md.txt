@@ -11,7 +11,7 @@ appendix.md
 ```
 
 Schulprogramm
-Stand August 2024
+Stand Mai 2025
 
 
 [^15]: Leitbild der Kölner Erklärung für Europaschulen

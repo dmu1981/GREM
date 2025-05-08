@@ -1,8 +1,8 @@
 <a name="projekte"></a>
-## Europaprojekte und Wettbewerbe
+## 🌍 Europaprojekte und Wettbewerbe
 
 <a name="zertifikate"></a>
-### Französisch-Zertifikat DELF
+### 🇫🇷 Französisch-Zertifikat DELF
 
 ![](media/media/image4.jpeg)
 
@@ -32,7 +32,7 @@ Kompetenzen zur Prüfungsvorbereitung eingerichtet. Die Zahl der
 Prüfungsteilnehmer\*innen stieg von 24 (2005) stetig bis auf gegenwärtig
 über 70 an.
 
-### Italienisch-Zertifikat ele.IT
+### 🇮🇹 Italienisch-Zertifikat ele.IT
 
 ![](media/media/image5.emf)ele.IT ist eine Sprachprüfung in italienischer Sprache
 für ausländische Schüler\*innen und Student\*innen, die italienisch
@@ -57,7 +57,7 @@ Informationen finden Sie unter **www.iiccolonia.esteri.it** (Rubrik
 \"Italienisch lernen / Zertifikate").
 
 <a name="CertiLingua"></a>
-### Exzellenzlabel CertiLingua
+### 🏅 Exzellenzlabel CertiLingua
 
 Die wirtschaftliche Globalisierung und die fortschreitende europäische
 Integration erfordern in besonderem Maße die Befähigung junger Menschen,
@@ -94,7 +94,7 @@ Das GREM gehörte zu den ersten Teilnehmern dieses Pilotprojekts in NRW.
 Schon 2008 haben wir vom Ministerium das Recht erhalten,
 CertiLingua-Label zu verleihen.
 
-### Niederländisch-Zertifikat CNaVT
+### 🇳🇱  Niederländisch-Zertifikat CNaVT
 
 ![](media/media/image8.png)
 <span style="color:red;">
@@ -119,7 +119,7 @@ formeel*) sowie B2 mit dem Profil STRT (*Educatief startbekwaam*)
 vorbereitet.
 </span>
 
-### Erasmus plus - Projekte
+### 🇪🇺 Erasmus plus - Projekte
 
 ![](media/media/image9.jpeg)
 
@@ -134,7 +134,7 @@ Erfahrungsaustausch im Rahmen von Fortbildungsangeboten.
 
 ![](media/media/image10.jpeg)
 
-#### **Erasmus für Schüler\*innen**
+#### 🧑‍🎓 **Erasmus für Schüler\*innen**
 
 Eines unserer aktuellen Erasmus-Projekte für Schüler\*innen „Water4Life
 -- Sustainable use of a vital resource", das von 2019 bis 2022
@@ -156,7 +156,7 @@ Griechenland und Finnland sind an diesem Projekt beteiligt:
 
 - Hj. Nortamon Peruskoulu, Rauma, Finnland.
 
-#### **Projektziele und -inhalte**
+#### 🎯 **Projektziele und -inhalte**
 
 Die Schüler\*innen der Jahrgangsstufen EF und Q1 der beteiligten Schulen
 erarbeiten sich in international gemischten Teams die verschiedenen
@@ -181,7 +181,7 @@ fachsprachlichen und interkulturellen Fähigkeiten einzubringen und
 weiterzuentwickeln. Darüber hinaus wird in diesem Projekt ein hohes Maß
 an methodischen Fertigkeiten geübt und erprobt.
 
-#### **Durchführung**
+#### 🛠️ **Durchführung**
 
 Die Schüler\*innen der Oberstufe, die sich für dieses Projekt freiwillig
 melden, arbeiten zwei Stunden pro Woche an ihren Themen, betreut von
@@ -196,7 +196,7 @@ auf Exkursionen ihre erarbeiteten Themen zu vertiefen.
 Weitere Informationen auch zu unseren anderen Erasmus-Projekten finden
 Sie auf unserer Website.
 
-#### **Erasmus für Lehrkräfte**
+#### 👩‍🏫 **Erasmus für Lehrkräfte**
 
 Unser aktuelles Erasmus plus-Projekt ‚Teaching Digital Europe -
 Digitalisierung in Schule und Unterricht' bietet den Lehrkräften unserer
@@ -221,7 +221,7 @@ Die allgemeinen Ziele unseres Projektes sind:
 4.  Stärkung der Interkulturalität und der Europaausrichtung unserer
     Europaschule.
 
-### Forschen und Entwickeln
+### 🧪 Forschen und Entwickeln
 
 ![](media/media/image11.png)
 <span style="color:red;">
@@ -244,7 +244,7 @@ Betrieben und Universitäten Einsichten in die Anforderungen der
 technisch orientierten Berufswelt und der zugehörigen Studiengänge
 vermittelt werden.</span>
 
-#### **Projektziele**
+#### 🎯 **Projektziele**
 
 ![](media/media/image13.jpeg)
 <span style="color:red;">Die Schüler\*innen arbeiten in kleinen
@@ -264,7 +264,7 @@ den Wahlen am Ende der Klasse 7 übersteigt regelmäßig bei weitem das
 Angebot.</span>
 
 <a name="zdi"></a>
-### Zukunft durch Innovation (zdi)
+### 🚀 Zukunft durch Innovation (zdi)
 
 ![](media/media/image14.png)
 Auch in diesem Projekt zeigt sich der
@@ -301,10 +301,10 @@ Fraunhofer-Institut zertifizierte Roboter-Lehrgänge, vor allem für
 Mädchen, an. Inzwischen können wir einige Erfolge bei
 Roboter-Wettbewerben verbuchen.
 
-### Mathematik-Wettbewerbe
+### ➕ Mathematik-Wettbewerbe
 
 <a name="matheolympiade"></a>
-**Matheolympiade**
+#### 🏅 **Matheolympiade**
 
 Die Mathematik-Olympiade ist ein seit 1962 jährlich bundesweit
 angebotener Wettbewerb, an dem über 125.000 Schüler\*innen teilnehmen.
@@ -323,7 +323,7 @@ weiterzuentwickeln.
 
 ![](media/media/image17.png)
 
-#### **Mathe-Känguru (Känguru der Mathematik)**
+#### 🦘 **Mathe-Känguru (Känguru der Mathematik)**
 
 ![](media/media/image18.jpeg)
 
@@ -348,7 +348,7 @@ Teilnehmer\*innen nimmt in den letzten Jahren stetig zu.
 Die besten Preisträger werden traditionell am letzten Schultag in einer
 Ehrungszeremonie besonders ausgezeichnet.[]{#BigChallenge .anchor}
 
-### Englisch-Wettbewerb The Big Challenge
+### 🧾 Englisch-Wettbewerb The Big Challenge
 
 ![](media/media/image19.png)
 The Big Challenge ist ein
@@ -362,7 +362,7 @@ Im Jahr 2019 nahmen über 590000 Schüler\*innen mit 28000 Lehrer\*innen
 aus 5500 Schulen teil. Das GREM beteiligt sich seit einigen Jahren mit
 ständig wachsender Schüler\*innenzahl.
 
-### Debating Club
+### 🗣️ Debating Club
 
 **Teilnahme am Model European Parliament und der Model United Nation
 School Simulation**

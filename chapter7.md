@@ -1,6 +1,6 @@
-## Schulentwicklung
+## 🏗️ Schulentwicklung
 
-### Steuergruppenarbeit
+### ⚙️ Steuergruppenarbeit
 
 Nachdem eine Gruppe von Lehrer\*innen mit der Schulleitung die ersten
 Entwürfe zum Schulprogramm erarbeitet hatte, reifte schnell die
@@ -39,7 +39,7 @@ Die PGSE ist also - neben der Fachgruppenarbeit - als „think tank" ein
 weiterer Motor der Schulentwicklung zu sehen, der sich vor allem der
 überfachlichen Fortentwicklung des GREM widmet.
 
-### Hauptvorhaben
+### 🎯 Hauptvorhaben
 <span style="color:red;">
 Die Schulentwicklungsgruppe beschäftigt sich in diesem Jahr zentral mit
 angestoßenen Schulentwicklungsprojekten. Aber auch neue Ideen werden
@@ -97,9 +97,9 @@ Blick und erfahren eine Weiterentwicklung im Rahmen der
 Schulentwicklung.
 
 
-### Unterrichtsentwicklung
+### 📚 Unterrichtsentwicklung
 
-#### **Ziele**
+#### 🎯 **Ziele**
 
 Das Ziel des Gymnasiums Rheinkamp Europaschule Moers ist es, durch
 modernen, den pädagogischen Standards entsprechenden Unterricht die
@@ -172,7 +172,7 @@ Daraus abgeleitet werden am GREM folgende Aspekte in den Fokus genommen:
 - Der Versuch, Unterricht zu öffnen -- beispielsweise durch das
   Aufsuchen außerschulischer Lernorte -- wird positiv unterstützt.
 
-#### **Maßnahmen**
+#### 🧩 **Maßnahmen**
 
 Bei der Planung und Durchführung des Unterrichts versuchen die
 Lehrer\*innen des GREM den Unterricht vielfältig anzulegen. Abhängig von
@@ -185,7 +185,7 @@ Ziel ist es, die Nutzung verschiedener Unterrichtsmethoden zu verwenden,
 um Schüler\*innen vielfältig anzusprechen, dadurch ihre Lernbereitschaft
 zu steigern und bessere Lernergebnisse zu erzielen.
 
-#### **Lehrer\*innen**
+#### 👩‍🏫 **Lehrer\*innen**
 
 Eine besondere Bedeutung kommt der Entwicklung personeller Ressourcen
 zu. Die Lehrer\*innen stehen im Zentrum. Ihre Motivation, ihre
@@ -197,7 +197,7 @@ und unterstützendes Lernklima schaffen. Dazu sind regelmäßige
 Fortbildungen (schulintern und --extern) notwendig (🡪
 [Kap.7.4](#Fortbildung)).
 
-#### **Kernlehrpläne**
+#### 📘 **Kernlehrpläne**
 
 Durch die neuen Kernlehrpläne besteht zusätzlich der Bedarf,
 Fortbildungen anzubieten, die individuelle Förder- und
@@ -207,7 +207,7 @@ Fokus haben. Erweitert wird dieser Wunsch auch dadurch, dass durch G8
 erneut in den Blick genommen werden sollen, um sie gezielt zu
 „entschlacken".
 
-#### **Unterricht**
+#### 🧑‍🏫 **Unterricht**
 
 Die Unterrichtsentwicklung erfordert auch an dieser Stelle einen
 Verständigungsprozess zwischen den Lehrer\*innen des GREM. Gemeinsam
@@ -267,9 +267,9 @@ Eltern und Schüler\*innen vertreten sind, begleitet wird.
 
 **Evaluation** (🡪 [Kap.7.5.)](#Evaluation)
 
-### Fortbildungskonzept
+### 📈 Fortbildungskonzept
 
-#### **Vorbemerkungen**
+#### 🧾 **Vorbemerkungen**
 
 Der Lehrer\*innenfortbildung kommt für die dauerhafte Stärkung der
 Leistungsfähigkeit von Schulen eine bedeutende Rolle zu. Fortbildung hat
@@ -333,7 +333,7 @@ jeden Fortbildungsplanung!
 
 Konkretisieren?
 
-#### **Entwicklungsvorhaben**
+#### 🛠️ **Entwicklungsvorhaben**
 
 Die Schule sollte ein Ort sein, an dem unterrichtliche und
 außerunterrichtliche Aktivitäten im Rahmen des Ganztages
@@ -368,7 +368,7 @@ Um in den genannten Fällen zu sehr guten Ergebnissen zu gelangen, bedarf
 es in den verschiedenen Bereichen einer immerwährenden und begleitenden
 Fortbildung des Kollegiums oder Teilen davon.
 
-#### **Jahresaufgaben**
+#### 📅 **Jahresaufgaben**
 
 Zu den zentralen Jahresaufgaben der Fortbildungsplanung gehören die
 folgenden Aspekte:
@@ -392,7 +392,7 @@ Fortbildungsbedarfs. Hier soll im zeitlichen Abstand von spätestens zwei
 Jahren eine grundsätzliche Bedarfsermittlung erfolgen. Gleiches erfolgt
 in weiteren Gruppen (z.B. Lehrerrat, Schulleitungsteam).
 
-#### **Aktuelle Entwicklungen**
+#### 🔍 **Aktuelle Entwicklungen**
 
 Über eine mittel- und langfristige Perspektive und Planung hinaus ist
 Raum für Reaktionen auf aktuelle Entwicklungen und kurzfristige
@@ -422,7 +422,7 @@ verlieren dürfen wir die Teilzeitlehrkräfte und die Kolleg\*innen mit
 einer Schwerbehinderung. Hier müssen mögliche Entlastungen geprüft und
 gewährt werden.
 
-#### **Schritte zur FB-Planung:**
+#### 🪜 **Schritte zur FB-Planung:**
 
 Daraus ergibt sich eine Schrittfolge, die an entsprechende Leitfragen
 geknüpft ist:
@@ -445,7 +445,7 @@ geknüpft ist:
 > Folgende aktuelle FB-Themen wurden bei der letzten Bedarfsabfrage
 > ermittelt:
 
-#### **Aktuelle Arbeit am Schulprogramm**
+#### 💡  **Aktuelle Arbeit am Schulprogramm**
 
 - Diagnosekompetenz
 
@@ -467,7 +467,7 @@ geknüpft ist:
 
 - Weiterentwicklung Ganztag
 
-#### **Aktuelle schulpolitische Entwicklungen**
+#### 🏛️ **Aktuelle schulpolitische Entwicklungen**
 
 - Mündliche Sprachprüfungen
 
@@ -480,13 +480,13 @@ geknüpft ist:
 
 - Schulrechtsänderungsgesetzgebung
 
-#### **Schulverwaltung**
+#### 🗃️ **Schulverwaltung**
 
 - Fortschreibung des Verwaltungsprogramms SchILD
 
 - Stundenplangestaltung/Vertretungs-konzept und --pläne
 
-#### **Pädagogische Arbeit**
+#### 🧑‍🤝‍🧑 **Pädagogische Arbeit**
 
 - Aus- und Weiterbildung der Beratungslehrer und --innen
 
@@ -505,9 +505,9 @@ somit nur eine Momentaufnahme eines sich stetig fortsetzenden Denk- und
 Schulentwicklungs-prozesses.
 
 
-### Evaluationskonzept
+### 📊 Evaluationskonzept
 
-#### **Was bedeutet Evaluation für unsere Schule?**
+#### 🧠 **Was bedeutet Evaluation für unsere Schule?**
 
 Evaluation ist die Kontrolle und ständige Fortschreibung des
 Schulentwicklungsprozesses. Die wesentlichen Ziele des Prozesses sind
@@ -518,7 +518,7 @@ Schulentwicklungsprozesses. Die wesentlichen Ziele des Prozesses sind
 
 Der Weg dorthin wird durch das Schulprogramm vorgegeben.
 
-#### **Wie wird Evaluation durchgeführt?**
+#### 🔎**Wie wird Evaluation durchgeführt?**
 
 Fortlaufend werden von der Schulleitung auch mit Blick auf
 geschlechtsspezifische Besonderheiten (s. Gender Mainstreaming, [🡪
@@ -544,7 +544,7 @@ im Rahmen unseres Nachmittagsangebots und der Förderstunden in D, M und
 E installiert worden. Deren Wirkungen werden regelmäßig überprüft und
 optimiert.
 
-#### **Evaluationsdaten und -instrumente**
+#### 🧾 **Evaluationsdaten und -instrumente**
 
 - Zeugnisnoten,
 

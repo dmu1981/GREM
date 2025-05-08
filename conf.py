@@ -38,7 +38,8 @@ language = 'de'
 
 html_theme_options = {
     "navigation_depth": 3,
-    'collapse_navigation': False
+    'collapse_navigation': False,
+    "titles_only": False,
 }
 
 # -- Options for HTML output -------------------------------------------------
@@ -49,3 +50,4 @@ html_static_path = ['_static']
 html_theme_options = {
     'canonical_url': '',
 }
+

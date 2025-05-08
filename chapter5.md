@@ -1,6 +1,6 @@
-## Medien
+## 🖥️ Medien
 <a name="medienkonzept"></a>
-### Medienkonzept
+### 🧭 Medienkonzept
 
 Grundlage unserer Überlegungen zur Medienerziehung ist der hier in
 Auszügen zitierte Text „Medienerziehung in der Schule --
@@ -81,7 +81,7 @@ den einzelnen Stufen:
 | 11     | Facharbeiten                                                                                                                                          | alle       | Präsentationen                                                         | unterschiedliche Medien, PowerPoint                   |
 
 
-### Blended Learning mit MOODLE, eTwinning und dropbox
+### 🌐 Blended Learning mit MOODLE, eTwinning und dropbox
 
 ![](media/media/image20.jpeg)
 Blended Learning bezeichnet die Form des

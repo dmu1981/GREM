@@ -1,10 +1,10 @@
-## Europaschule
+## 🏫 Europaschule
 ![Europakarte](media/europe-3483539_1920.jpg)
 
-### Europa – Ein Kontinent mit Geschichte
+### 🌍 Europa – Ein Kontinent mit Geschichte
 Europa ist ein Kontinent mit einer einzigartigen und bewegten Geschichte, die von kultureller Vielfalt, politischen Umbrüchen und gemeinsamen Entwicklungen geprägt ist. Von der griechischen Antike über das Römische Reich bis hin zur Aufklärung und den beiden Weltkriegen haben europäische Ereignisse und Ideen die Weltgeschichte nachhaltig beeinflusst. Heute steht Europa nicht nur für historisches Erbe, sondern auch für den Versuch, durch Zusammenarbeit, Verständigung und gemeinsame Werte wie Frieden, Demokratie und Menschenrechte eine gemeinsame Zukunft zu gestalten. Die Europäische Union ist Ausdruck dieses Strebens – ein Projekt, das aus der Geschichte gelernt hat und auf Dialog und Zusammenhalt setzt.
 
-### Selbstverständnis
+### 🧭 Selbstverständnis
 
 Zu unserem Selbstverständnis als Europaschule gehört in besonderer Weise
 die Vermittlung von Bildung mit europäischer Dimension, basierend auf
@@ -23,7 +23,7 @@ sowie ihren fachlichen und sozialen Kompetenzen so, dass sie den
 gesellschaftlichen Aufgaben der Gegenwart gerecht werden und
 Verantwortung für eine gemeinsame europäische Zukunft übernehmen können.
 
-#### **Bildungsidee und Bildungsauftrag**
+#### 🎓 **Bildungsidee und Bildungsauftrag**
 
 Es ist Aufgabe und Ziel des Unterrichts und fachgebundener sowie
 fachübergreifender Projekte, die Schüler\*innen zur allgemeinen
@@ -33,7 +33,7 @@ Entwicklung von Teamfähigkeit, Selbstständigkeit, Kreativität und
 Flexibilität wie auch der Bereitschaft zu lebenslangem Lernen ist das
 GREM verpflichtet.
 
-#### **Das GREM im Stadtteil**
+#### 🏘️ **Das GREM im Stadtteil**
 
 Das GREM liegt randstädtisch zur Großstadt Moers. Insgesamt gibt es in
 Moers vier Gymnasien, drei Gesamtschulen mit gymnasialer Oberstufe und
@@ -56,7 +56,7 @@ wir in Zusammenarbeit mit unterschiedlichen Vereinen (z.B. dem
 Tennisclub) und Organisationen (z.B. der VHS) realisieren, gestaltet
 eine attraktive Schule. Kooperation mit Schlosstheater.
 
-####  **Das GREM in der Region**
+#### 🌐 **Das GREM in der Region**
 
 Zwei weitere wichtige Punkte tragen seit Jahren zur Entwicklung
 besonderer Profile der Schule bei.
@@ -88,11 +88,11 @@ sich so als Gymnasium mit vielen Facetten innerhalb der Schullandschaft
 zu positionieren. Vor allem der sehr engagierten Lehrerschaft ist es zu
 verdanken, dass wir diese Vielfalt leben.
 
-#### **Das GREM in Europa**
+#### 🇪🇺 **Das GREM in Europa**
 
 Ein bedeutender Schwerpunkt der schulischen Arbeit am GREM ist die
 
-####  **Umsetzung des Europagedankens**
+#### 🧩  **Umsetzung des Europagedankens**
 
 - Unsere Schüler\*innen sollen jetzt und später die Werte der
   europäischen Aufklärung, wie z.B. die Gleichberechtigung der
@@ -130,18 +130,18 @@ Ein bedeutender Schwerpunkt der schulischen Arbeit am GREM ist die
 
 
 
-### Schulvereinbarung
+### 🤝 Schulvereinbarung
 
 Die folgende Schulvereinbarung enthält Grundsätze des schulischen
 Miteinanders. Sie wird bei Aufnahme in die Schule zwischen
 Schüler\*innen, Eltern und Lehrern getroffen.
 
-####  **Grundvereinbarung**
+####  📜 **Grundvereinbarung**
 
 Wir Schüler\*innen, Eltern und Lehrer\*innen bilden zusammen mit dem
 nicht lehrenden Personal die Schulgemeinschaft des
 
-#### **Gymnasium Rheinkamp Europaschule Moers**.
+#### 🏫 **Gymnasium Rheinkamp Europaschule Moers**.
 
 Um eine erfolgreiche Erziehung und Wissensvermittlung zu gewährleisten,
 müssen Schule und Elternhaus zielgerichtet und aufeinander abgestimmt
