@@ -99,7 +99,7 @@ Schulentwicklung.
 
 ### Unterrichtsentwicklung
 
-### **Ziele**
+#### **Ziele**
 
 Das Ziel des Gymnasiums Rheinkamp Europaschule Moers ist es, durch
 modernen, den pädagogischen Standards entsprechenden Unterricht die
