@@ -3,4 +3,5 @@ sphinx-rtd-theme
 sphinxcontrib-mermaid
 sphinx-togglebutton
 myst-parser
+snowballstemmer
 furo             # oder ein anderes Theme
