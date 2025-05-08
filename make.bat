@@ -1,8 +1,9 @@
 @ECHO OFF
 
-pushd %~dp0
+REM pushd %~dp0
 
-sphinx-build -M clean . ./docs & sphinx-build -M html . ./docs
+sphinx-build -M clean . ./_build & sphinx-build -M html . ./docs
+
 exit
 
 REM Command file for Sphinx documentation
